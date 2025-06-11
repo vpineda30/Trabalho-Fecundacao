@@ -13,7 +13,6 @@ body {
 }
 
 header{
-  position: fixed;
   width: 100%;
 }
 
@@ -342,13 +341,13 @@ header ul a{
   font-size: 22px;
 }
 
-.footer {
+#footer {
   background: linear-gradient(75deg, #facbdc, #e18fa8);
-  color: #000;
+  color: #303030;
   padding: 30px 10%;
   font-size: 16px;
   border-radius: 12px 12px 0 0;
-  margin-top: 12%;
+  margin-top: 8%;
 }
 
 .footer-container {
@@ -382,6 +381,29 @@ header ul a{
   margin-left: 29%;
 }
 
+.vamo button{
+  margin-top: 8%;
+  width: 250px;
+  height: 60px;
+  border: none;
+  border-radius: 15px;
+  background: linear-gradient(30deg, #e9c0cf, #eba5bf, #f78fb5);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button a{
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  color: #303030;
+  font-size: 18px;
+}
+
+button:hover{
+    transform: scale(1.05);
+}
+
+
 @keyframes appear {
     from {
         opacity: 0;
@@ -399,10 +421,11 @@ header ul a{
     animation-range: entry 0% cover 40%;
 }
 
+
 .tipos, .tiposh3 {
-    animation: appear linear;
-    animation-timeline: view();
-    animation-range: entry 0% cover 40%;
+  animation: appear linear;
+  animation-timeline: view();
+  animation-range: entry 0% cover 40%;
 }
 
 .fases, .fasesh3{
@@ -422,3 +445,9 @@ header ul a{
     animation-timeline: view();
     animation-range: entry 0% cover 40%;
 }
+
+.vamo{
+  display: flex;
+  justify-content: center;
+}
+
