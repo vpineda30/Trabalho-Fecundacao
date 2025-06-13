@@ -96,6 +96,14 @@ main{
   font-weight: 500;
 }
 
+.butao{
+  background-color: #e47a9a;
+}
+
+.butao:hover{
+  background-color: #e18fa8;
+}
+
 .linha2{
     display: flex;
     justify-content: center;

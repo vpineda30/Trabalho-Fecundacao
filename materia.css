@@ -46,7 +46,7 @@ header img{
 }
 
 header ul a{
-    font-size: 15px;
+    font-size: 17px;
     font-weight: 450;
     text-decoration: none;
     color: #303030;
@@ -102,6 +102,11 @@ header ul a{
   color: #303030;
 }
 
+.fecundacaoh3 h3{
+  font-size: 27px;
+  color: #303030;
+}
+
 /* Tipos */
 
 .tiposh3{
@@ -110,6 +115,12 @@ header ul a{
   margin-top: 8%;
   color: #303030;
 }
+
+.tiposh3 h3{
+  font-size: 27px;
+  color: #303030;
+}
+
 .tipos{
   display: flex;
   justify-content: center;
@@ -117,6 +128,7 @@ header ul a{
   margin-right: 8%;
   margin-left: 7%;
 }
+
 .tipos .interna{
   background: linear-gradient(75deg, #facbdc, #e18fa8);
   border-radius: 10px;
@@ -126,10 +138,12 @@ header ul a{
   align-items: center;
   color: #303030;
 }
+
 .tipos .interna p{
   margin-top: 8%;
   font-size: 18px;
 }
+
 .tipos .externa{
   background: linear-gradient(75deg, #facbdc, #e18fa8);
   border-radius: 10px;
@@ -138,10 +152,12 @@ header ul a{
   padding: 35px;
   color: #303030;
 }
+
 .tipos .externa p{
   margin-top: 8%;
   font-size: 18px;
 }
+
 .tipos .cruzada{
   background: linear-gradient(75deg, #facbdc, #e18fa8);
   border-radius: 10px;
@@ -150,10 +166,12 @@ header ul a{
   padding: 35px;
   color: #303030;
 }
+
 .tipos .cruzada p{
   margin-top: 8%;
   font-size: 18px;
 }
+
 .tipos .auto{
   background: linear-gradient(75deg, #facbdc, #e18fa8);
   border-radius: 10px;
@@ -162,6 +180,7 @@ header ul a{
   padding: 35px;
   color: #303030;
 }
+
 .tipos .auto p{
   margin-top: 8%;
   font-size: 18px;
@@ -175,6 +194,11 @@ header ul a{
   display: flex;
   justify-content: center;
   margin-top: 8%;
+  color: #303030;
+}
+
+.humanah3 h3{
+  font-size: 27px;
   color: #303030;
 }
 
@@ -227,6 +251,11 @@ header ul a{
   color: #303030;
 }
 
+.fasesh3 h3{
+  font-size: 27px;
+  color: #303030;
+}
+
 .fases{
   display: flex;
   background: linear-gradient(75deg, #facbdc, #e18fa8);
@@ -265,6 +294,12 @@ header ul a{
   justify-content: center;
   color: #303030;
 }
+
+.fertilizacaoh3 h3{
+  font-size: 27px;
+  color: #303030;
+}
+
 .fertilizacao{
   background: linear-gradient(75deg, #facbdc, #e18fa8);  
   border-radius: 10px;  
@@ -288,6 +323,11 @@ header ul a{
   color: #303030;
 }
 
+.inseminacaoh3 h3{
+  font-size: 27px;
+  color: #303030;
+}
+
 .inseminacao{
   background: linear-gradient(75deg, #facbdc, #e18fa8);  border-radius: 10px;
   margin-top: 4%;
@@ -308,6 +348,11 @@ header ul a{
   display: flex;
   justify-content: center;
   margin-top: 8%;
+  color: #303030;
+}
+
+.sintomash3 h3{
+  font-size: 27px;
   color: #303030;
 }
 
