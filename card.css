@@ -19,8 +19,9 @@ main{
 .cardeados{
     display: flex;
     justify-content: center;
+    margin-top: 7%;
     margin-right: 5%;
-    gap: 3%;
+    gap: 2.8%;
     flex-wrap: wrap;
 }
 
@@ -63,11 +64,11 @@ main{
 }
 
 .front img{
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .back img{
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .saibaMais{
@@ -107,14 +108,14 @@ main{
 .linha2{
     display: flex;
     justify-content: center;
-    gap: 3.5%;
+    gap: 4%;
     margin-top: 5%;
 }
 
 .linha3{
   display: flex;
   justify-content: center;
-  gap: 8.5%;
+  gap: 4%;
   margin-top: 5%;
 }
 
